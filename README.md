@@ -23,3 +23,10 @@ V-Trigger :
 Press R to randomize again or any key to exit
 
 ```
+
+# windows users
+
+On windows 10, open a cmd console, go to your script location and execute :
+```
+C:\Windows\System32\bash.exe -c "./random-street.sh"
+```
